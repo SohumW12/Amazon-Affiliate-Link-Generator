@@ -1,0 +1,28 @@
+{
+  "name": "ezamazonaffiliate",
+  "version": "1.0.0",
+  "description": "Generate an amazon affiliate link with your tracking code easily!",
+  "main": "index.js",
+  "dependencies": {
+    "ezamazonaffiliate": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FattyDev1/Amazon-Affiliate-Link-Generator.git"
+  },
+  "keywords": [
+    "amazonaffiliate",
+    "amazon",
+    "amazondeveloper",
+    "amazonapi"
+  ],
+  "author": "FattyDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FattyDev1/Amazon-Affiliate-Link-Generator/issues"
+  },
+  "homepage": "https://github.com/FattyDev1/Amazon-Affiliate-Link-Generator#readme"
+}
