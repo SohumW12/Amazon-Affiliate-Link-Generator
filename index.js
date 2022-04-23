@@ -8,7 +8,7 @@ function CreateURL(url, code){
         return null;
     }
     var asin =  cMatch[1];
-    var generated = `https://www.amazon.com/dp/${asin}/?tag=${code}`
+    var generated = `https://www.amazon.com/dp/${asin}?tag=${code}`
   return generated
   }
   module.exports = CreateURL
