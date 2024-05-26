@@ -1,7 +1,6 @@
 # Amazon-Affiliate-Link-Generator-
 Create an amazon affiliate link with a regular amazon link with this npm package
 =======
-# no-comma
 
 amazonaffiliatelink is a javascript package where you can easily generate an amazon affiliate link with any amazon product URL!
 ## Installation
